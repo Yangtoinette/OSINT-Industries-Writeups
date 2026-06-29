@@ -1,40 +1,80 @@
+# Caught in the act — OSINT Write-up
+
+---
+
+| Plateforme | Catégorie | Points |
+|:-----------|:----------|:-------|
+| OSINT INDUSTRIES | GEOINT| 5 |
+
+---
+
+## Énoncé
+
+Challenge:
+
+A photo has been recovered during an investigation.
+
+Your objective is to determine:
+
+    The name of the university where the photo was taken
+    The city in which it is located
+
+Flag format: OSINT{"university_name_city"}
+
+Example: OSINT{"harvard_university_cambridge"}
+
+Good luck.
 
 
+---
 
-## La Dérive — OSINTOPIA | Géolocalisation | Medium
+## Outils
 
-**Énoncé :** 
+| Outil | Rôle |
+|:------|:-----|
+| `[Outil 1]` | [Description du rôle] |
+| `[Outil 2]` | [Description du rôle] |
+| `[Outil 3]` | [Description du rôle] |
 
-<div align="left">
-  Challenge:
-  
-  <p>A photo has been recovered during an investigation.</p>
-  
-  <p>Your objective is to determine:
-  <ul>
-    <li>The name of the university where the photo was taken</li>
-    <li>The city in which it is located</li>
-  </ul>
-  
-  <p>Flag format: OSINT{"university_name_city"}</p>
-  <p>Example: OSINT{"harvard_university_cambridge"}</p>
-  
-  <p>Good luck.</p>
-</div>
+---
 
-**Outils :** `exiftool` · `Yandex Images` · `Google Street View` · `Wayback Machine`
+## Résolution
 
 <details>
-<summary>Résolution (spoiler)</summary>
+<summary>Voir la démarche complète</summary>
 
-**[01] Métadonnées EXIF** — Aucun GPS, photo réexportée Photoshop.
+### [01] — [Titre de l'étape]
 
-**[02] Reverse image search** — Yandex → Barcelone, Espagne.
+[Description de la démarche et du raisonnement.]
 
-**[03] Architecture + Street View** — Barrio Gràcia → Carrer de Verdi.
+```
+[commande ou sortie d'outil]
+```
 
-**[04] Datation** — Wayback Machine → première capture 2019-03-14.
+> **Résultat :** [Ce que vous avez trouvé ou conclu.]
+
+---
+
+### [02] — [Titre de l'étape]
+
+[Description.]
+
+> **Trouvé :** [Résultat.]
+
+---
+
+### [03] — [Titre de l'étape]
+
+[Description.]
+
+> **Confirmé :** [Résultat.]
 
 </details>
 
-**Flag :** `OSINTOPIA{Carrer_de_Verdi_2019}`
+---
+
+## Flag
+
+```
+OSINT{XXX_XX_X}
+```
