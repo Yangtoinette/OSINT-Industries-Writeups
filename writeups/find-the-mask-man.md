@@ -30,7 +30,7 @@ points: "3"
 
 | Outil | Rôle |
 |:------|:-----|
-| `[Outil 1]` | [Description du rôle] |
+| `Google maps` | Trouver la localisation précise |
 | `[Outil 2]` | [Description du rôle] |
 | `[Outil 3]` | [Description du rôle] |
 
@@ -41,35 +41,48 @@ points: "3"
 <details>
 <summary>Voir la démarche complète</summary>
 
-### [01] — [Titre de l'étape]
+### [01] — Observer la photo
 
-[Description de la démarche et du raisonnement.]
+On peut voir (même flou) que les lettres sont dans l'alphabet latin. 
+On peut devnir le mot "Julien" sur les stores du magasin.
+On peut voir un vélo et ce qui semble être un tableau publicitaire, au croisement d'une rue.
+
+> **Résultat :** Il faut trouver un magasin ou boutique à Paris, qui possède le nom "Julien" dans son nom.
+
+---
+
+### [02] — Encore la photo
+
+En regardant encore de plus près, on peut deviner la dernière partie du mot précédent "Julien" : erie. 
+Cela réduit les pistes à : boulangerie, patisserie, poissonerie, droguerie.
+On voit sur le sol un marquage de piste cyclable.
+
+> **Trouvé :** On sait que ce n'est pas un magasin de vêtements, ou une boutique de luxe ou de bijoux qui doit être trouvée.
+
+---
+
+### [03] — Google Maps
+
+Sur Google maps, on peut chercher boulangerie Julien à Paris pour avoir une liste de lieux potentiels.
+On exclue la banlieue parisienne, car l'énoncé ne parle que de Paris même.
+Il n'y a que 4 résultats : Maison Julien (deux fois), Boulangerie Julien, Maison Julien Levis.
+
+En allant voir les photos associées aux différentes boulangeries, une seule correspond à la photo : celle située Rue du Commandant Rivière.
+
+Un passage sur Google Street view confirme que c'est bien le lieu cherché.
 
 ```
 [commande ou sortie d'outil]
 ```
 
-> **Résultat :** [Ce que vous avez trouvé ou conclu.]
+> **Confirmé :** Maison Julien
 
----
+### [03] — La station de métro
 
-### [02] — [Titre de l'étape]
+Il n'y a qu'une seule station de métro vraiment proche du lieu trouvé.
+Elle se trouve à une quarantaine de mètres de la boulangerie.
 
-[Description.]
-
-> **Trouvé :** [Résultat.]
-
----
-
-### [03] — [Titre de l'étape]
-
-[Description.]
-
-```
-[commande ou sortie d'outil]
-```
-
-> **Confirmé :** [Résultat.]
+> **Confirmé :** S**-***-**-R**e
 
 </details>
 
@@ -78,7 +91,7 @@ points: "3"
 ## Flag
 
 ```
-[PLATEFORME]{valeur_du_flag}
+OSINT{S**-***-**-R**e}
 ```
 
 ---
