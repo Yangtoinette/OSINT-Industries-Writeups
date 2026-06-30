@@ -2,8 +2,6 @@
 
 Résolutions de challenges OSINT — format Markdown.
 
-> Index généré automatiquement — 30/06/2026 20:28 UTC · **1 write-up(s)**
-
 ---
 
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
@@ -12,4 +10,3 @@ Résolutions de challenges OSINT — format Markdown.
 
 ---
 
-*Généré par [scripts/generate_readme.py](scripts/generate_readme.py)*
