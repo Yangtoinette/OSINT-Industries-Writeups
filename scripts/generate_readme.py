@@ -73,14 +73,11 @@ def main():
 
 {README_DESCRIPTION}
 
-> Index généré automatiquement — {now} UTC · **{len(entries)} write-up(s)**
-
 ---
 
 {build_table(entries)}
 ---
 
-*Généré par [scripts/generate_readme.py](scripts/generate_readme.py)*
 """
     README_PATH.write_text(readme, encoding="utf-8")
     print("README.md mis à jour")
