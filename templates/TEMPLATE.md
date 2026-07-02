@@ -1,12 +1,3 @@
----
-title: "[Titre du challenge]"
-platform: "[OSINTOPIA / TryHackMe / CTF]"
-category: "[GEOINT / OSINT / CTF]"
-difficulty: "Medium"
-date: "[JJ mois AAAA]"
-points: "350"
----
-
 # [Titre du challenge] — OSINT Write-up
 
 ---
