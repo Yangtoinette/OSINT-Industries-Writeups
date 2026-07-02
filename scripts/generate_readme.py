@@ -11,7 +11,7 @@ from datetime import datetime
 
 # ── À modifier avant le premier push ─────────────────────────────────────────
 README_TITLE       = "OSINT Write-ups"
-README_DESCRIPTION = "Résolutions de challenges OSINT — format Markdown."
+README_DESCRIPTION = "Résolutions de challenges OSINT"
 # ─────────────────────────────────────────────────────────────────────────────
 
 WRITEUPS_DIR = Path("writeups")
