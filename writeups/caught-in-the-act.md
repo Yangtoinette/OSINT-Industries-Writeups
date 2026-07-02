@@ -1,19 +1,19 @@
 ---
-title: "caught-in-the-act"
+title: "Caught in the Act"
 platform: "OSINT INDUSTRIES"
-category: "Easy"
-difficulty: "juin 2026"
-date: "3"
-points: ""
+category: "GEOINT"
+difficulty: "Easy"
+date: "juin 2026"
+points: "3"
 ---
 
-# caught-in-the-act — OSINT Write-up
+# Caught in the Act — OSINT Write-up
 
 ---
 
 | Plateforme | Catégorie | Difficulté | Date | Points |
 |:-----------|:----------|:-----------|:-----|-------:|
-| OSINT INDUSTRIES | Easy | juin 2026 | 3 |  |
+| OSINT INDUSTRIES | GEOINT | Easy | juin 2026 | 3 |
 
 ---
 
@@ -41,6 +41,14 @@ points: ""
 
 Une recherche inversée sur Google images nous permet de trouver dès les premiers résultats la bonne université.
 
+> **Résultat :** Nom de l'université.
+
+---
+
+### [02] — Une fois que le nom est trouvé, on peut utiliser Google "classique" pour trouver toutes les informations demandées.
+
+> **Résultat :** Adresse de l'université.
+
 </details>
 
 ---
@@ -48,7 +56,7 @@ Une recherche inversée sur Google images nous permet de trouver dès les premie
 ## Flag
 
 ```
-OSINT{"harvard_university_cambridge"}
+OSINT{"******_******"}
 ```
 
 ---
