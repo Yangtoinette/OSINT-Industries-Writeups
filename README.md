@@ -4,9 +4,7 @@ Résolutions de challenges OSINT — format Markdown.
 
 ---
 
-| Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
-|:----------|:-----------|:----------|:-----------|:-----|-------:|
-| [Find the masked man](writeups/find-the-mask-man.md) | OSINT INDUSTRIES | GEOINT | Easy | 25 juin 2026 | 3 |
+_Aucun write-up pour le moment._
 
 ---
 
