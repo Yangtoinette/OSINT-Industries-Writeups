@@ -27,8 +27,9 @@ points: "3"
 
 | Outil | Rôle |
 |:------|:-----|
-| `Google images` | Recherche correspondance |
-| `Google` | Recherche générale |
+| `[Outil 1]` | [Description du rôle] |
+| `[Outil 2]` | [Description du rôle] |
+| `[Outil 3]` | [Description du rôle] |
 
 ---
 
@@ -37,7 +38,13 @@ points: "3"
 <details>
 <summary>Voir la démarche complète</summary>
 
-### [01] — Recherche Google images
+### [01] — Google images|Recherche correspondance
+
+Google| Recherche générale
+
+---
+
+### [02] — Recherche Google images
 
 Une recherche inversée sur Google images nous permet de trouver dès les premiers résultats la bonne université.
 
@@ -45,7 +52,7 @@ Une recherche inversée sur Google images nous permet de trouver dès les premie
 
 ---
 
-### [02] — Recherche Google "classique"
+### [03] — Recherche Google "classique"
 
 Une fois que le nom est trouvé, on peut utiliser Google "classique" pour trouver toutes les informations demandées.
 
