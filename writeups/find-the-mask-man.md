@@ -1,3 +1,12 @@
+---
+title: "Find the masked man"
+platform: "OSINT INDUSTRIES"
+category: "GEOINT"
+difficulty: "Easy"
+date: "25 juin 2026"
+points: "3"
+---
+
 # Find the masked man — OSINT Write-up
 
 ---

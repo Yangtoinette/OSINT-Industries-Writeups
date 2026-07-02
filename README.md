@@ -1,6 +1,6 @@
 # OSINT Write-ups
 
-Résolutions de challenges OSINT — format Markdown.
+Résolutions de challenges OSINT
 
 ---
 

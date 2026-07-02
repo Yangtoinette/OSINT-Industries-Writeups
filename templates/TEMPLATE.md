@@ -1,3 +1,12 @@
+---
+title: "TITRE"
+platform: "OSINT INDUSTRIES"
+category: ""
+difficulty: "Easy"
+date: "juin 2026"
+points: "3"
+---
+
 # [Titre du challenge] — OSINT Write-up
 
 ---
