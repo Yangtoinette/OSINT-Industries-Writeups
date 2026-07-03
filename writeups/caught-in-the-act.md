@@ -19,7 +19,7 @@ points: "3"
 
 ## Énoncé
 
-> "[Copier l'énoncé du challenge ici]"
+> "A photo has been recovered during an investigation. Your objective is to determine: 1) The name of the university where the photo was taken 2) The city in which it is located"
 
 ---
 
