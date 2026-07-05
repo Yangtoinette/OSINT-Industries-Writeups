@@ -7,7 +7,6 @@ Résolutions de challenges OSINT
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
 |:----------|:-----------|:----------|:-----------|:-----|-------:|
 | [Caught in the Act](writeups/caught-in-the-act.md) | OSINT INDUSTRIES | GEOINT | Easy | juin 2026 | 3 |
-| [Fools mate](writeups/fools-mate.md) | TryHackMe | Challenge | Easy | juin 2026 | 45 |
 | [Find the masked man](writeups/find-the-mask-man.md) | OSINT INDUSTRIES | GEOINT | Easy | 25 juin 2026 | 3 |
 
 ---
