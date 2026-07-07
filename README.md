@@ -1,6 +1,6 @@
-# OSINT Write-ups
+# OSINT Industries Write-ups
 
-Résolutions de challenges OSINT
+Résolutions de challenges OSINT Industries
 
 ---
 
