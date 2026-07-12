@@ -13,7 +13,7 @@ points: "3"
 
 | Plateforme | Catégorie | Difficulté | Date | Points |
 |:-----------|:----------|:-----------|:-----|-------:|
-| [Plateforme] | [Catégorie] | Easy | [Date] | 3 |
+| OSINT INDUSTRIES | OSINT | Easy | juin 2026 | 3 |
 
 ---
 
@@ -43,16 +43,11 @@ Plusieurs informations peuvent être remarquées dans la photo : la date du vol,
 
 En utilisant la recherche inversée par image de Google, nous pouvons facilement trouver une photo qui est très intéressante. C'est l'exacte photo donnée dans l'énoncé, mais sans le flou.
 
-
-```
-[commande ou sortie d'outil]
-```
-
 > **Résultat :** On trouve le numéro ONKMIF, qui identifie les aéroports.
 
 ---
 
-### [02] — Encore la photo
+### [02] — Base de données IATA
 
 Nous avons presque toutes les informations demandées pour construire le flag.
 Il ne manque que l'aéroport. 
