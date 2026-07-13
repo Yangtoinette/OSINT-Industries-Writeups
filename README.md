@@ -11,11 +11,11 @@
   <tr>
     <td align="center" width="220">
       <strong>🧩 Writeups résolus</strong><br/><br/>
-      <img src="https://img.shields.io/badge/4-writeups-2ea043?style=for-the-badge" alt="4 writeups"/>
+      <img src="https://img.shields.io/badge/3-writeups-2ea043?style=for-the-badge" alt="3 writeups"/>
     </td>
     <td align="center" width="220">
       <strong>⭐ Points totaux</strong><br/><br/>
-      <img src="https://img.shields.io/badge/29-points-58a6ff?style=for-the-badge" alt="29 points"/>
+      <img src="https://img.shields.io/badge/9-points-58a6ff?style=for-the-badge" alt="9 points"/>
     </td>
   </tr>
 </table>
@@ -45,13 +45,12 @@ Les contributions sont les bienvenues. Pour ajouter un write-up ou améliorer un
 ---
 
 <!-- WRITEUPS:START -->
-<!-- Dernière mise à jour : 12/07/2026 12:30 UTC -->
+<!-- Dernière mise à jour : 13/07/2026 20:27 UTC -->
 
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
 |:----------|:-----------|:----------|:-----------|:-----|-------:|
 | [Caught in the Act](writeups/caught-in-the-act.md) | OSINT INDUSTRIES | GEOINT | Easy | juin 2026 | 3 |
 | [DEPIX](writeups/depix.md) | OSINT INDUSTRIES | OSINT | Easy | juin 2026 | 3 |
-| [Mémoire d'un garage oublié 1/3](writeups/memoire-garage-oublie-1-3.md) | OSINTOPIA | Challenge | Easy | juin 2026 | 20 |
 | [Find the masked man](writeups/find-the-mask-man.md) | OSINT INDUSTRIES | GEOINT | Easy | 25 juin 2026 | 3 |
 
 <!-- WRITEUPS:END -->
